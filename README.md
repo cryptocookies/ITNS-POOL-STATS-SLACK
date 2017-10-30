@@ -1,6 +1,6 @@
 # ITNS-POOL-STATS-SLACK
 
-#This script needs to be ran on a cron##
+##This script needs to be ran on a cron##
 It is recomended to be ran once per minute.
 
 >* * * * * bash /Path/Too/slackstats.sh
