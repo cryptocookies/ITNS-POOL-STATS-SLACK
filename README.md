@@ -6,7 +6,9 @@
 
 > - - - - - bash /Path/Too/slackstats.sh
 
-The default directory to pass the HTML file to is >/var/www/html
+The default directory to pass the HTML file to is 
+
+> var/www/html
 
 
 
